@@ -1,1 +1,1 @@
-export const DB_NMAE = "tariqbacke"
+export const DB_NAME = "tariqbacke"
